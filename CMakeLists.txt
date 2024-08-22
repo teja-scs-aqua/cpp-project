@@ -4,6 +4,8 @@ cmake_minimum_required (VERSION 2.8.8)
 project(juci)
 set(JUCI_VERSION "1.4.4")
 
+
+
 set(CPACK_PACKAGE_NAME "jucipp")
 set(CPACK_PACKAGE_CONTACT "Ole Christian Eidheim <eidheim@gmail.com>")
 set(CPACK_PACKAGE_VENDOR ${CPACK_PACKAGE_CONTACT})
